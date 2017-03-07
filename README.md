@@ -1,2 +1,13 @@
 # Captain-Sonar-Unity
-board game [captain sonar] for mobile
+我很喜欢的一款桌游captain sonar（中文译名：深海谍影），为了能和外地的朋友们一起玩，所以做了一个手机游戏
+
+## 声明：
+ 该项目中所用图片、声音均来源于网络，如有侵权，请联系我删除，邮箱：a605592645@qq.com
+ 
+###使用工具：
+unity+pomelo 后期可能会加入mysql
+
+### 游戏介绍：
+完善中……
+### 如何使用：
+完善中……

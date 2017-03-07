@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{796C9C56-8047-C59C-DD99-C87DE64C09DA}") = "CaptainSonarUnity", "Assembly-CSharp-firstpass.csproj", "{A7B99AC4-A1AB-90E6-C7CA-15A53C8CE3C9}"
+EndProject
+Project("{796C9C56-8047-C59C-DD99-C87DE64C09DA}") = "CaptainSonarUnity", "Assembly-CSharp.csproj", "{5583A3C1-AB85-B84E-DC39-E10580810460}"
+EndProject
+Project("{796C9C56-8047-C59C-DD99-C87DE64C09DA}") = "CaptainSonarUnity", "Assembly-CSharp-Editor.csproj", "{401C2A86-1DD8-6F8E-F198-65396AFE02F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B99AC4-A1AB-90E6-C7CA-15A53C8CE3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B99AC4-A1AB-90E6-C7CA-15A53C8CE3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B99AC4-A1AB-90E6-C7CA-15A53C8CE3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B99AC4-A1AB-90E6-C7CA-15A53C8CE3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5583A3C1-AB85-B84E-DC39-E10580810460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5583A3C1-AB85-B84E-DC39-E10580810460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5583A3C1-AB85-B84E-DC39-E10580810460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5583A3C1-AB85-B84E-DC39-E10580810460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401C2A86-1DD8-6F8E-F198-65396AFE02F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401C2A86-1DD8-6F8E-F198-65396AFE02F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401C2A86-1DD8-6F8E-F198-65396AFE02F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401C2A86-1DD8-6F8E-F198-65396AFE02F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

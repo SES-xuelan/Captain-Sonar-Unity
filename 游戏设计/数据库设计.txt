@@ -1,0 +1,48 @@
+数据库名：
+    CaptainSonar
+---------- 表↓ 全部小写 --------------
+submarine【潜艇】
+    id【编号，自动增长】
+    room【string 房间号】
+    team【string 队伍名，blue/red】
+    blood【int 潜艇血量】
+
+    startpos【string 起始位置，字符串"A1"  "H6"】
+    currentpos【string 当前位置，字符串"A1"  "H6"】
+    way【string 己方潜艇走的路线，潜艇上浮后清空，json字符串】
+
+    mine【int 武器：水雷 记录当前充能】
+    torpedo【int 武器：鱼雷 记录当前充能】
+    drone【int 侦测：无人机 记录当前充能】
+    sonar【int 侦测：声呐 记录当前充能】
+    silence【int 特殊功能：潜行 记录当前充能】
+    scenario【int 特殊功能：剧本 记录当前充能】
+    mineok【bool 是否充能完毕】
+    torpedook【bool 是否充能完毕】
+    droneok【bool 是否充能完毕】
+    sonarok【bool 是否充能完毕】
+    silenceok【bool 是否充能完毕】
+    scenariook【bool 是否充能完毕】
+
+    engineermap【string 工程师负责的，潜艇哪部分损坏的map，json字符串】
+    weaponok【bool 是否可以使用"攻击"类别的功能】
+    detectionok【bool 是否可以使用"侦查"类别的功能】
+    specialok【bool 是否可以使用"特殊"类别的功能】
+
+    radioway【string 监听的敌方的路线，json字符串】
+
+    captain【string 负责这个职位的用户名】
+    firstmate【string 负责这个职位的用户名】
+    engineer【string 负责这个职位的用户名】
+    radiooperator【string 负责这个职位的用户名】
+
+    captainstatus【int 当前的状态，  0:还未移动  1:移动完毕  】
+    firstmatestatus【int 当前的状态，  0:还未操作  1:操作完毕  】
+    engineerstatus【int 当前的状态，  0:还未操作  1:操作完毕  】
+    radiooperatorstatus【int 当前的状态，  0:还未操作  1:操作完毕  】
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{40A57820-FD81-EFD2-5D05-1A76D2403C27}") = "CaptainSonar", "Assembly-CSharp-firstpass.csproj", "{3DF37F6C-B183-A03B-83AD-FB78F94A155C}"
+EndProject
+Project("{40A57820-FD81-EFD2-5D05-1A76D2403C27}") = "CaptainSonar", "Assembly-CSharp.csproj", "{F252F6BA-2203-F130-09B0-0EB9D93A12DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF37F6C-B183-A03B-83AD-FB78F94A155C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF37F6C-B183-A03B-83AD-FB78F94A155C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF37F6C-B183-A03B-83AD-FB78F94A155C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF37F6C-B183-A03B-83AD-FB78F94A155C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F252F6BA-2203-F130-09B0-0EB9D93A12DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F252F6BA-2203-F130-09B0-0EB9D93A12DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F252F6BA-2203-F130-09B0-0EB9D93A12DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F252F6BA-2203-F130-09B0-0EB9D93A12DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

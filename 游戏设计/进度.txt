@@ -1,0 +1,38 @@
+以下进度，标*的为已完成
+
+服务器部分：
+    *gate
+    *connector
+    *chat
+
+数据库部分
+    数据库模型
+
+游戏部分：
+    界面：
+        *主界面
+        *选择职业
+        Captain部分
+        FirstMate部分
+        Engineer部分
+        RadioOperator部分
+        游戏结束和重新开始部分
+        游戏规则说明
+        制作者信息
+    逻辑和操作
+        Captain部分
+        FirstMate部分
+        Engineer部分
+        RadioOperator部分
+    数据
+        *Captain部分
+        *FirstMate部分
+        *Engineer部分
+        *RadioOperator部分
+        *潜艇整体数据和服务器的交互
+
+
+
+
+
+

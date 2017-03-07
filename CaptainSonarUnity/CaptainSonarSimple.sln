@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6FDE027D-572B-80DA-2202-AE990A310E8D}") = "CaptainSonarSimple", "Assembly-CSharp-firstpass.csproj", "{47AACB78-D153-F0CE-DB85-8684F2D649EB}"
+EndProject
+Project("{6FDE027D-572B-80DA-2202-AE990A310E8D}") = "CaptainSonarSimple", "Assembly-CSharp.csproj", "{CE5B354F-B2E3-1F59-9F34-765B9CF5A32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47AACB78-D153-F0CE-DB85-8684F2D649EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AACB78-D153-F0CE-DB85-8684F2D649EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AACB78-D153-F0CE-DB85-8684F2D649EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AACB78-D153-F0CE-DB85-8684F2D649EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5B354F-B2E3-1F59-9F34-765B9CF5A32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5B354F-B2E3-1F59-9F34-765B9CF5A32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5B354F-B2E3-1F59-9F34-765B9CF5A32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5B354F-B2E3-1F59-9F34-765B9CF5A32F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.NoTabsAfterNonTabs = True
+		$1.EolMarker = Unix
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
